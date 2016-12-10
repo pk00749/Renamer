@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Renamer</string>
+    <string name="Renamer">Renamer</string>
+    <string name="create">Create folder</string>
+    <string name="rename">Rename</string>
+	<string name="action">Action</string>
+</resources>
